@@ -6,7 +6,7 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=dumbcoder7&show_icons=true&theme=dracula&count_private=true" /></p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dumbcoder7)](https://github.com/anuraghazra/github-readme-stats)
+<p align = "center"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumbcoder7&theme=dracula" /></p>
 
 
 <!--
