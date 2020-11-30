@@ -4,12 +4,13 @@
 
 #### Current Progress — Improving day by day
 
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=dumbcoder7&show_icons=true&theme=dracula&count_private=true&line_height=48" />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumbcoder7&theme=dracula" />
+
+<p align="left">
+  
+  <img width="56.5%" src="https://github-readme-stats.vercel.app/api?username=dumbcoder7&show_icons=true&theme=dracula&count_private=true&line_height=48" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumbcoder7&theme=dracula" />
 
 </p>
-
 
 <!--
 
