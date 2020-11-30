@@ -8,7 +8,6 @@
 
 
 
----
 
 <!-- ### About me: 🤗😀 
 
@@ -16,7 +15,6 @@
  
  -->
 
----
 
 **Github Stats:**
 <p align="center">
@@ -26,6 +24,14 @@
   <p align = "center"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumbcoder7&theme=dracula" />
 
 </p>
+
+
+
+Feel free to reach out about issues in any project you find.
+
+
+##### *Thanks for visiting*
+
 <!--
 
 
@@ -39,7 +45,3 @@
 - ⚡ Fun fact: ...
 -->
 
-Feel free to reach out about issues in any project you find.
-
-
-##### *Thanks for visiting*
