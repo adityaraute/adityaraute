@@ -3,7 +3,10 @@
 
 
 #### Current Progress — Improving day by day
-<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=dumbcoder7&show_icons=true&theme=tokyonight" /></p>
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=dumbcoder7&show_icons=true&theme=dracula&count_private=true" /></p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dumbcoder7)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
