@@ -1,9 +1,13 @@
-### Hi there 👋
+# **Aditya Raute**
+
+
+
+#### Current Progress — Improving day by day
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=dumbcoder7&show_icons=true&theme=tokyonight" /></p>
+
 
 <!--
-**dumbcoder7/dumbcoder7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Feel free to reach out about issues in any project you find.
+
+
+##### *Thanks for visiting*
