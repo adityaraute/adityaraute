@@ -1,5 +1,6 @@
 ### Hi there 👋 I am  Aditya Raute💻
 
+<!-- [![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-4124786%20Lines%20of%20code-blue)](#) -->
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](#) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#)
 
