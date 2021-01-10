@@ -17,13 +17,16 @@
 
 **Github Stats:**
 <p align="center">
-  
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=dumbcoder7&show_icons=true&theme=dracula&count_private=true" />
-  </p>
-  <p align = "center"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumbcoder7&theme=dracula" />
-
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=dumbcoder7&show_icons=true&theme=dracula&count_private=true" />
 </p>
 
+<p align = "center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumbcoder7&theme=dracula" />
+</p>
+
+<p align="center"> 
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=dumbcoder7&theme=dracula" />
+</p>
 
 
 Feel free to reach out about issues in any project you find.
