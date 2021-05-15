@@ -1,4 +1,4 @@
-### Hi there 👋 I am  Aditya Raute💻
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=daa520&height=100&width=1000&lines=Namaste+🙏;I+am+Aditya+Raute+🕶️;Feel+free+to+look+around.;Reach+out+if+you+need+help!)](https://git.io/typing-svg)
 
 <!-- [![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-4124786%20Lines%20of%20code-blue)](#) -->
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](#) 
